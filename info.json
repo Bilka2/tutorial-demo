@@ -1,6 +1,6 @@
 {
   "name" : "tutorial-demo",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "title" : "Demo mod for how to add tutorials",
   "author" : "Bilka",
   "description" : "Demo mod for how to add a TutorialDefinition and an associated scenario.",
