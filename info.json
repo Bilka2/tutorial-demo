@@ -4,5 +4,5 @@
   "title" : "Example mod for how to add tutorials",
   "author" : "Bilka",
   "description" : "Example mod for how to add a TutorialDefinition and an associated scenario.",
-  "factorio_version" : "1.1"
+  "factorio_version" : "2.0"
 }
